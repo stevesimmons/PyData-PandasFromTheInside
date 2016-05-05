@@ -13,7 +13,7 @@ If you want to follow along the examples on your own laptop, please
 
 * Download a copy of this module `pfi.py`. 
 
-* Download the sample data file http://afltables.com/afl/stats/biglists/bg3.txt.
+* Download the sample data file http://afltables.com/afl/stats/biglists/bg3.txt.A copy is also included in this repo.
 
 The PDF slides will be posted here after the conference.
 
